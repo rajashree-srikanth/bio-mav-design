@@ -1,0 +1,10 @@
+*.docs
+*.pdf
+*.png
+*.pdf
+*.pptx
+ISUDEF/
+ppt/
+Report/
+
+!/References/*.pdf
